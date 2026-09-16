@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Centralizado de Operaciones y Broadcasting",
+  "description": "Plataforma unificada para checklist de sistemas broadcast, mesa de incidencias y control de horas extras y compensaciones con sincronización en Google Drive y Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
